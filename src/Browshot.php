@@ -25,6 +25,10 @@ class Browshot
 {
 	const version = '1.29.0';
 
+	public string _$key;
+	public int $_base
+	public string $_debug;
+
 	/**
 	 * Constructor
 	 *
